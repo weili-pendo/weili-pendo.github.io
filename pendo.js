@@ -6,8 +6,8 @@
         o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
         y=e.createElement(n);y.async=!0;y.src='https://cdn.pendo.io/agent/static/'+apiKey+'/pendo.js';
         z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
-        Call this whenever information about your visitors becomes available
-        Please use Strings, Numbers, or Bools for value types.
+        //Call this whenever information about your visitors becomes available
+        //Please use Strings, Numbers, or Bools for value types.
 // pendo.isReady(console.log("is ready"))
         pendo.initialize({
 //             disablecookies: true,
