@@ -17,6 +17,7 @@
                 name: 'my name',
                 emailid: 'visitor-1@pendo.io',   // Required if user is logged in
                 role: 'Admin',
+                return_url: 'https://www.google.com',
                 
                 //drift info
                 
